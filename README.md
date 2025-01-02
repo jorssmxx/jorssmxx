@@ -72,7 +72,4 @@ hi, I´m Jorge Sánchez 🔮.
  <a href="https://github.com/jorssmxx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Sin archivos seleccionados
-Attach files by dragging & dropping, selecting or pasting them.
-Editing jorssmxx/README.md at main · jorssmxx/jorssmxx
+
